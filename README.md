@@ -6,4 +6,4 @@ Lib file from
 http://www.javazoom.net/mp3spi/mp3spi.html
 http://www.javazoom.net/vorbisspi/vorbisspi.html
  
-updated 15 - 10 2021 in idiubah dari folder edit
+updated 15 - 10 2021 edit dari reveived
